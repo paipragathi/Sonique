@@ -20,6 +20,8 @@ env/
 *.sav
 *.h5
 *.model
+*.save
+*.json
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints
@@ -40,3 +42,5 @@ genres/
 # OS generated files
 .DS_Store
 Thumbs.db
+
+=2.31
